@@ -138,3 +138,7 @@ venv.bak/
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# User uploaded images
+static/uploads/*
+!static/uploads/.gitkeep
